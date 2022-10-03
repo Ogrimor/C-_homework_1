@@ -12,7 +12,7 @@ if (max < secondNumber)
 {
     max = secondNumber;
 }
-else if(max < lastNumber)
+if(max < lastNumber)
 {
     max = lastNumber;
 }
